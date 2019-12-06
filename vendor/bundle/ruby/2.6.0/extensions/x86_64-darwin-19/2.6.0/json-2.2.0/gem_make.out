@@ -1,0 +1,13 @@
+current directory: /Users/roxanneakorley/Downloads/rails_projects/photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+/Users/roxanneakorley/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/roxanneakorley/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20191206-22432-1eo830v.rb extconf.rb
+creating Makefile
+
+current directory: /Users/roxanneakorley/Downloads/rails_projects/photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/roxanneakorley/Downloads/rails_projects/photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/roxanneakorley/Downloads/rails_projects/photo-app/vendor/bundle/ruby/2.6.0/gems/json-2.2.0/ext/json
+make "DESTDIR=" install

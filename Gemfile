@@ -13,8 +13,8 @@ gem 'jquery-rails'
 gem 'stripe'
 gem 'carrierwave'
 gem 'mini_magick'
-gem 'fog'
-gem 'figaro'
+gem 'fog-aws'
+#gem 'figaro'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
